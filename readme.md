@@ -1,7 +1,7 @@
 # My Graphic Design Portfolio
 
 ## Description
-This is just a presentation of some of the graphic designs I've worked on!
+This is a presentation of some of the graphic designs I've worked on as part time job.
 
 ## Software used
 I've actually used:
